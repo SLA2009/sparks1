@@ -1,6 +1,8 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\_Repos\\sparks1\\Sparks1.csproj": {}
   },
   "projects": {
@@ -12,6 +14,24 @@
         "projectPath": "C:\\_Repos\\sparks1\\Sparks1.csproj",
         "packagesPath": "C:\\Users\\c-sebastien.lamort\\.nuget\\packages\\",
         "outputPath": "C:\\_Repos\\sparks1\\obj\\",
+=======
+=======
+>>>>>>> 25789e101679b95746a25e6f4f6df474d2befb07
+    "C:\\_Repos\\Sparks1\\Sparks1.csproj": {}
+  },
+  "projects": {
+    "C:\\_Repos\\Sparks1\\Sparks1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_Repos\\Sparks1\\Sparks1.csproj",
+        "projectName": "Sparks1",
+        "projectPath": "C:\\_Repos\\Sparks1\\Sparks1.csproj",
+        "packagesPath": "C:\\Users\\c-sebastien.lamort\\.nuget\\packages\\",
+        "outputPath": "C:\\_Repos\\Sparks1\\obj\\",
+<<<<<<< HEAD
+>>>>>>> 25789e1 (Commit WebAPP)
+=======
+>>>>>>> 25789e101679b95746a25e6f4f6df474d2befb07
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
