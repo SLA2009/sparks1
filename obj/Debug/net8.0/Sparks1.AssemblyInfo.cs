@@ -15,10 +15,14 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c85b32c8860f3f94de2e0da389dc4a83fa73f2c8")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 >>>>>>> 25789e1 (Commit WebAPP)
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+>>>>>>> 25789e101679b95746a25e6f4f6df474d2befb07
 [assembly: System.Reflection.AssemblyProductAttribute("Sparks1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sparks1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
