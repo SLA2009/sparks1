@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sparks1.props" />
+</Project>
