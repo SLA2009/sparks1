@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "WDrT7EaPj1g=",
   "success": true,
   "projectFilePath": "C:\\_Repos\\sparks1\\Sparks1.csproj",
+=======
+  "dgSpecHash": "+BNnLIOpolU=",
+  "success": true,
+  "projectFilePath": "C:\\_Repos\\Sparks1\\Sparks1.csproj",
+>>>>>>> 25789e1 (Commit WebAPP)
   "expectedPackageFiles": [],
   "logs": []
 }
