@@ -6,7 +6,7 @@ name: Build and deploy ASP.Net Core app to Azure Web App - SLAWEBAPPTEST
 on:
   push:
     branches:
-      - main
+      - main_
   workflow_dispatch:
 
 jobs:
